@@ -1,3 +1,14 @@
-# 128OS - a UNIX Operating System
+# 128OS - an Independent Operating System
 
-[Join our Discord!](https://discord.gg/VjyZ76ge96)
+Kernel - nebula
+Eng. - nebula
+Writing (C-like) - nebula
+Writing (ASM) - nebula
+Project Waterloo - nebula
+Project Wasting - nebula
+Graphic Design - delta2571
+License - Massachusetts Institute of Technology
+
+nblanetworks, 128projects, deltaOSP 2024
+
+
